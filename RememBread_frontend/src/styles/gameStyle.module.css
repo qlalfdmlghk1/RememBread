@@ -1,0 +1,5 @@
+.mosaic {
+  image-rendering: pixelated;
+  transform: scale(0.95);
+  opacity: 0.9;
+} 

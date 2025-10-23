@@ -1,0 +1,137 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  darkMode: ["class", "class"],
+  content: ["./index.html", "./src/**/*.{ts,tsx,js,jsx}"],
+  theme: {
+    screens: {
+      pc: "600px",
+      sm: "480px",
+      xs: "360px",
+    },
+    extend: {
+      fontFamily: {
+        suite: ["SUITE-Regular"],
+      },
+      width: {
+        screen: "calc(100vw - 12px)",
+        96: "24rem",
+        112: "28rem",
+        128: "32rem",
+        144: "36rem",
+        160: "40rem",
+      },
+      borderRadius: {
+        lg: "var(--radius)",
+        md: "calc(var(--radius) - 2px)",
+        sm: "calc(var(--radius) - 4px)",
+      },
+      colors: {
+        background: "hsl(var(--background))",
+        foreground: "hsl(var(--foreground))",
+        border: "hsl(var(--border))",
+        input: "hsl(var(--input))",
+        ring: "hsl(var(--ring))",
+        card: {
+          DEFAULT: "hsl(var(--card))",
+          foreground: "hsl(var(--card-foreground))",
+        },
+        popover: {
+          DEFAULT: "hsl(var(--popover))",
+          foreground: "hsl(var(--popover-foreground))",
+        },
+        primary: {
+          100: "#FBF6EF",
+          200: "#F3E9DA",
+          300: "#E9D7B8",
+          400: "#E2C99F",
+          500: "#DAB78A",
+          600: "#C4A677",
+          700: "#B3915C",
+          DEFAULT: "hsl(var(--primary))",
+          foreground: "hsl(var(--primary-foreground))",
+        },
+        secondary: {
+          DEFAULT: "hsl(var(--secondary))",
+          foreground: "hsl(var(--secondary-foreground))",
+        },
+        muted: {
+          DEFAULT: "hsl(var(--muted))",
+          foreground: "hsl(var(--muted-foreground))",
+        },
+        accent: {
+          DEFAULT: "hsl(var(--accent))",
+          foreground: "hsl(var(--accent-foreground))",
+        },
+        destructive: {
+          DEFAULT: "hsl(var(--destructive))",
+          foreground: "hsl(var(--destructive-foreground))",
+        },
+        positive: {
+          100: "#dae6ff",
+          200: "#a9c5ff",
+          300: "#78a3ff",
+          400: "#4782ff",
+          500: "#1661ff",
+          600: "#0049e4",
+          700: "#0039b4",
+          800: "#002a83",
+        },
+        negative: {
+          50: "#fef2f2",
+          100: "#ffe1e1",
+          200: "#ffc8c8",
+          300: "#ff8b8b",
+          400: "#fd6c6c",
+          500: "#f53e3e",
+          600: "#e22020",
+          700: "#be1717",
+          800: "#9d1717",
+          900: "#821a1a",
+        },
+        neutral: {
+          50: "#f6f6f6",
+          100: "#e7e7e7",
+          200: "#d1d1d1",
+          300: "#b0b0b0",
+          400: "#949494",
+          500: "#6d6d6d",
+          600: "#5d5d5d",
+          700: "#4f4f4f",
+          800: "#454545",
+          900: "#3d3d3d",
+        },
+        chart: {
+          1: "hsl(var(--chart-1))",
+          2: "hsl(var(--chart-2))",
+          3: "hsl(var(--chart-3))",
+          4: "hsl(var(--chart-4))",
+          5: "hsl(var(--chart-5))",
+        },
+      },
+      fontSize: {
+        xxxs: "0.5rem",
+        xxs: "0.625rem",
+        xs: "0.75rem",
+        sm: "0.875rem",
+        md: "1rem",
+        lg: "1.125rem",
+      },
+      keyframes: {
+        shake: {
+          "0%": { transform: "translateX(0)" },
+          "25%": { transform: "translateX(-5px)" },
+          "50%": { transform: "translateX(5px)" },
+          "75%": { transform: "translateX(-5px)" },
+          "100%": { transform: "translateX(0)" },
+        },
+      },
+      animation: {
+        shake: "shake 0.5s ease-in-out",
+      },
+      transformOrigin: {
+        center: "center",
+      },
+    },
+  },
+  plugins: [require("@tailwindcss/typography"), require("tailwind-scrollbar-hide")],
+};
