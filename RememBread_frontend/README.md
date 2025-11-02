@@ -205,39 +205,139 @@
 
 ### 🎨 Frontend Core
 
-| 기술 | 버전 | 설명 |
-|------|------|------|
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) | 18.3.1 | 사용자 인터페이스 구축 |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | 5.7.2 | 타입 안전성을 위한 정적 타입 언어 |
-| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) | 6.3.1 | 빠른 빌드 도구 및 개발 서버 |
-| ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) | 7.5.2 | 클라이언트 사이드 라우팅 |
+<table width="100%">
+<thead>
+<tr>
+<th width="40%">기술</th>
+<th width="15%">버전</th>
+<th width="45%">설명</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React"/></td>
+<td>18.3.1</td>
+<td>사용자 인터페이스 구축</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></td>
+<td>5.7.2</td>
+<td>타입 안전성을 위한 정적 타입 언어</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/></td>
+<td>6.3.1</td>
+<td>빠른 빌드 도구 및 개발 서버</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" alt="React Router"/></td>
+<td>7.5.2</td>
+<td>클라이언트 사이드 라우팅</td>
+</tr>
+</tbody>
+</table>
 
 ### 📦 상태 관리 및 데이터 페칭
 
-| 기술 | 버전 | 설명 |
-|------|------|------|
-| ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square) | 5.0.3 | 경량 전역 상태 관리 |
-| ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white) | 5.74.4 | 서버 상태 관리 및 캐싱 |
-| ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white) | 1.9.0 | HTTP 클라이언트 (자동 토큰 갱신) |
+<table width="100%">
+<thead>
+<tr>
+<th width="40%">기술</th>
+<th width="15%">버전</th>
+<th width="45%">설명</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" alt="Zustand"/></td>
+<td>5.0.3</td>
+<td>경량 전역 상태 관리</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white" alt="React Query"/></td>
+<td>5.74.4</td>
+<td>서버 상태 관리 및 캐싱</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios"/></td>
+<td>1.9.0</td>
+<td>HTTP 클라이언트 (자동 토큰 갱신)</td>
+</tr>
+</tbody>
+</table>
 
 ### 🎨 UI/UX
 
-| 기술 | 버전 | 설명 |
-|------|------|------|
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | 3.4.17 | 유틸리티 우선 CSS 프레임워크 |
-| ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square) | Latest | 접근성 높은 헤드리스 컴포넌트 |
-| ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white) | 12.10.4 | 애니메이션 라이브러리 |
-| ![Lucide](https://img.shields.io/badge/Lucide-F56565?style=flat-square) | 0.503.0 | 아이콘 라이브러리 |
-| ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square) | 2.15.3 | 데이터 시각화 차트 |
+<table width="100%">
+<thead>
+<tr>
+<th width="40%">기술</th>
+<th width="15%">버전</th>
+<th width="45%">설명</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/></td>
+<td>3.4.17</td>
+<td>유틸리티 우선 CSS 프레임워크</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square" alt="Radix UI"/></td>
+<td>Latest</td>
+<td>접근성 높은 헤드리스 컴포넌트</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/></td>
+<td>12.10.4</td>
+<td>애니메이션 라이브러리</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Lucide-F56565?style=flat-square" alt="Lucide"/></td>
+<td>0.503.0</td>
+<td>아이콘 라이브러리</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square" alt="Recharts"/></td>
+<td>2.15.3</td>
+<td>데이터 시각화 차트</td>
+</tr>
+</tbody>
+</table>
 
 ### ⚡ 특수 기능
 
-| 기술 | 버전 | 설명 |
-|------|------|------|
-| ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | 11.7.1 | 푸시 알림 (FCM) |
-| ![PDF.js](https://img.shields.io/badge/PDF.js-FF0000?style=flat-square) | 5.2.133 | PDF 파싱 및 처리 |
-| ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) | Plugin | Progressive Web App 기능 |
-| ![Naver Maps](https://img.shields.io/badge/Naver_Maps-03C75A?style=flat-square) | Types | 지도 연동 |
+<table width="100%">
+<thead>
+<tr>
+<th width="40%">기술</th>
+<th width="15%">버전</th>
+<th width="45%">설명</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/></td>
+<td>11.7.1</td>
+<td>푸시 알림 (FCM)</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/PDF.js-FF0000?style=flat-square" alt="PDF.js"/></td>
+<td>5.2.133</td>
+<td>PDF 파싱 및 처리</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA"/></td>
+<td>Plugin</td>
+<td>Progressive Web App 기능</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Naver_Maps-03C75A?style=flat-square" alt="Naver Maps"/></td>
+<td>Types</td>
+<td>지도 연동</td>
+</tr>
+</tbody>
+</table>
 
 ### 🔐 인증
 
@@ -521,16 +621,57 @@ graph LR
 
 > 모든 API 호출은 `src/services/` 디렉토리의 서비스 파일들을 통해 이루어집니다.
 
-| 서비스 | 파일 | 기능 |
-|--------|------|------|
-| 🔐 인증 | [authService.ts](src/services/authService.ts) | 소셜 로그인, 토큰 갱신, 로그아웃 |
-| 📇 카드 | [card.ts](src/services/card.ts) | 플래시카드 CRUD |
-| 📚 카드 세트 | [cardSet.ts](src/services/cardSet.ts) | 카드 세트 관리, 검색, 좋아요, 포크 |
-| 📁 폴더 | [folder.ts](src/services/folder.ts) | 폴더 계층 관리 |
-| 🎮 게임 | [gameService.ts](src/services/gameService.ts) | 게임 결과 제출, 랭킹 조회 |
-| 🗺️ 지도 | [map.ts](src/services/map.ts) | 위치 기반 알림 |
-| 📖 학습 | [study.ts](src/services/study.ts) | 학습 세션 추적 |
-| 👤 사용자 | [userService.ts](src/services/userService.ts) | 프로필, 캐릭터 선택, FCM 토큰 |
+<table width="100%">
+<thead>
+<tr>
+<th width="15%">서비스</th>
+<th width="30%">파일</th>
+<th width="55%">기능</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🔐 인증</td>
+<td><a href="src/services/authService.ts">authService.ts</a></td>
+<td>소셜 로그인, 토큰 갱신, 로그아웃</td>
+</tr>
+<tr>
+<td>📇 카드</td>
+<td><a href="src/services/card.ts">card.ts</a></td>
+<td>플래시카드 CRUD</td>
+</tr>
+<tr>
+<td>📚 카드 세트</td>
+<td><a href="src/services/cardSet.ts">cardSet.ts</a></td>
+<td>카드 세트 관리, 검색, 좋아요, 포크</td>
+</tr>
+<tr>
+<td>📁 폴더</td>
+<td><a href="src/services/folder.ts">folder.ts</a></td>
+<td>폴더 계층 관리</td>
+</tr>
+<tr>
+<td>🎮 게임</td>
+<td><a href="src/services/gameService.ts">gameService.ts</a></td>
+<td>게임 결과 제출, 랭킹 조회</td>
+</tr>
+<tr>
+<td>🗺️ 지도</td>
+<td><a href="src/services/map.ts">map.ts</a></td>
+<td>위치 기반 알림</td>
+</tr>
+<tr>
+<td>📖 학습</td>
+<td><a href="src/services/study.ts">study.ts</a></td>
+<td>학습 세션 추적</td>
+</tr>
+<tr>
+<td>👤 사용자</td>
+<td><a href="src/services/userService.ts">userService.ts</a></td>
+<td>프로필, 캐릭터 선택, FCM 토큰</td>
+</tr>
+</tbody>
+</table>
 
 ### 🧩 컴포넌트 개발 가이드
 
@@ -577,12 +718,37 @@ export const MyComponent: React.FC<MyComponentProps> = ({ title, onClick }) => {
 
 **커스텀 색상 팔레트**
 
-| 색상 | Hex | 용도 |
-|------|-----|------|
-| 🥖 Primary | `#DAB78A` | 빵 테마 베이지 |
-| ✅ Positive | `#4A90E2` | 성공 블루 |
-| ❌ Negative | `#E74C3C` | 에러 레드 |
-| ⚪ Neutral | `#95A5A6` | 중립 그레이 |
+<table width="100%">
+<thead>
+<tr>
+<th width="25%">색상</th>
+<th width="25%">Hex</th>
+<th width="50%">용도</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🥖 Primary</td>
+<td><code>#DAB78A</code></td>
+<td>빵 테마 베이지</td>
+</tr>
+<tr>
+<td>✅ Positive</td>
+<td><code>#4A90E2</code></td>
+<td>성공 블루</td>
+</tr>
+<tr>
+<td>❌ Negative</td>
+<td><code>#E74C3C</code></td>
+<td>에러 레드</td>
+</tr>
+<tr>
+<td>⚪ Neutral</td>
+<td><code>#95A5A6</code></td>
+<td>중립 그레이</td>
+</tr>
+</tbody>
+</table>
 
 **반응형 브레이크포인트**
 
@@ -656,13 +822,36 @@ npm run lint
 
 ### 📋 주요 스크립트
 
-| 명령어 | 설명 |
-|--------|------|
-| `npm run dev` | 개발 서버 실행 |
-| `npm run build` | 프로덕션 빌드 |
-| `npm run preview` | 빌드 미리보기 |
-| `npm run lint` | ESLint 실행 |
-| `npm run type-check` | TypeScript 타입 체크 |
+<table width="100%">
+<thead>
+<tr>
+<th width="40%">명령어</th>
+<th width="60%">설명</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>npm run dev</code></td>
+<td>개발 서버 실행</td>
+</tr>
+<tr>
+<td><code>npm run build</code></td>
+<td>프로덕션 빌드</td>
+</tr>
+<tr>
+<td><code>npm run preview</code></td>
+<td>빌드 미리보기</td>
+</tr>
+<tr>
+<td><code>npm run lint</code></td>
+<td>ESLint 실행</td>
+</tr>
+<tr>
+<td><code>npm run type-check</code></td>
+<td>TypeScript 타입 체크</td>
+</tr>
+</tbody>
+</table>
 
 <br/>
 
