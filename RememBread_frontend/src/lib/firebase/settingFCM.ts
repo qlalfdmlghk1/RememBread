@@ -9,13 +9,13 @@ import { getMessaging } from "firebase/messaging";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDgVl_10L4GHUjlRk6FE4EjY-tkEvxBFIE",
+  apiKey: "your_apiKey",
   authDomain: "remembread.firebaseapp.com",
   projectId: "remembread",
   storageBucket: "remembread.firebasestorage.app",
   messagingSenderId: "365476883445",
   appId: "1:365476883445:web:093ac60eca9d09a5184ebc",
-  measurementId: "G-FJKCEGY2QJ"
+  measurementId: "G-FJKCEGY2QJ",
 };
 
 // Initialize Firebase
@@ -23,4 +23,4 @@ const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
 const messaging = getMessaging(app);
 
-export { app, analytics, messaging }; 
+export { app, analytics, messaging };
