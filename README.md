@@ -91,26 +91,32 @@
 
 ### 🗺️ 2. 학습지도
 
-> 위치 기반 학습 알림 시스템으로 출퇴근 시간을 활용하세요.
+> **출퇴근길을 학습 시간으로 바꾸는 위치 기반 학습 알림 시스템**
 
-- 📡 **실시간 위치 추적**: 15초마다 현재 위치 업데이트
-- 🔔 **알림 구역 설정**: 특정 위치에 도착하면 학습 알림 발송
-- 🗺️ **네이버 지도 연동**: 직관적인 지도 인터페이스로 위치 관리
+- 📡 **실시간 위치 추적** — 15초마다 현재 위치 자동 업데이트  
+- 🔔 **알림 구역 설정** — 지정 위치 도착 시 학습 알림 발송  
+- 🗺️ **네이버 지도 연동** — 직관적인 인터페이스로 손쉬운 위치 관리  
 
 <details>
 <summary>📌 주요 컴포넌트</summary>
 
-- [MapPage.tsx](src/pages/MapPage.tsx)
-- [MapView.tsx](src/components/studyMap/MapView.tsx)
-- [map.ts](src/services/map.ts) - 위치 기반 알림 서비스
+- [MapPage.tsx](src/pages/MapPage.tsx)  
+- [MapView.tsx](src/components/studyMap/MapView.tsx)  
+- [map.ts](src/services/map.ts) — 위치 기반 알림 서비스 로직
 
 </details>
 
+<br/>
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b9403e7a-9a80-41d4-87b3-571460c23586" width="22%" />
-  <img src="https://github.com/user-attachments/assets/37c02374-ed4d-4bcb-9def-b2615cc78d66" width="22%" />
-  <img src="https://github.com/user-attachments/assets/26f41c94-3bdd-447a-affa-d84cdf21755b" width="22%" />
-    <img src="https://github.com/user-attachments/assets/aff92c9d-96f6-4df7-a92f-7643fd1d979f" width="22%" />
+  <img src="https://github.com/user-attachments/assets/b9403e7a-9a80-41d4-87b3-571460c23586" width="23%" style="border-radius: 10px; margin: 4px;" />
+  <img src="https://github.com/user-attachments/assets/37c02374-ed4d-4bcb-9def-b2615cc78d66" width="23%" style="border-radius: 10px; margin: 4px;" />
+  <img src="https://github.com/user-attachments/assets/26f41c94-3bdd-447a-affa-d84cdf21755b" width="23%" style="border-radius: 10px; margin: 4px;" />
+  <img src="https://github.com/user-attachments/assets/aff92c9d-96f6-4df7-a92f-7643fd1d979f" width="23%" style="border-radius: 10px; margin: 4px;" />
+</p>
+
+<p align="center">
+  <sub>🏷️ 빵길 시각화 · 위치 알림 설정 · 핀 지정 모드 · 설정 메뉴</sub>
 </p>
 
 
@@ -725,6 +731,7 @@ Made with ❤️ by RememBread Team
 **[⬆ 맨 위로 돌아가기](#-암기빵-remembread)**
 
 </div>
+
 
 
 
