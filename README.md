@@ -40,7 +40,7 @@
 <table>
 <tr>
 <td width="20%" align="center">🚀</td>
-<td width="80%"><b>접근성</b><br/>PWA로 구현되어 앱 설치 없이 즉시 사용 가능</td>
+<td width="100%"><b>접근성</b><br/>PWA로 구현되어 앱 설치 없이 즉시 사용 가능</td>
 </tr>
 <tr>
 <td align="center">✨</td>
@@ -717,3 +717,4 @@ Made with ❤️ by RememBread Team
 **[⬆ 맨 위로 돌아가기](#-암기빵-remembread)**
 
 </div>
+
