@@ -89,6 +89,13 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/237131e6-2dc6-49b8-adc7-b518ddc10f55" width="23%" style="border-radius: 10px; margin: 4px;" />
+  <img src="https://github.com/user-attachments/assets/50b22d11-e5e8-4028-87f6-d4289e798768" width="23%" style="border-radius: 10px; margin: 4px;" />
+  <img src="https://github.com/user-attachments/assets/a6883bc5-972f-4586-84de-2b3eeb039662" width="23%" style="border-radius: 10px; margin: 4px;" />
+  <img src="https://github.com/user-attachments/assets/7b56b6c3-4837-4492-a030-4163404b7eb4" width="23%" style="border-radius: 10px; margin: 4px;" />
+</p>
+
 ### 🗺️ 2. 학습지도
 
 > **출퇴근길을 학습 시간으로 바꾸는 위치 기반 학습 알림 시스템**
@@ -178,6 +185,8 @@
 </table>
 
 <details>
+
+
 <summary>📌 주요 컴포넌트</summary>
 
 - [GamesPage.tsx](src/pages/GamesPage.tsx)
@@ -738,6 +747,7 @@ Made with ❤️ by RememBread Team
 **[⬆ 맨 위로 돌아가기](#-암기빵-remembread)**
 
 </div>
+
 
 
 
