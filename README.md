@@ -159,6 +159,20 @@
 
 </details>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/531002e0-f460-4bb6-87b8-e00506dc60f8" width="23%" style="border-radius: 10px; margin: 4px;" />
+  <img src="https://github.com/user-attachments/assets/b31d21e6-72ec-425a-8af1-da0d53c496ad" width="23%" style="border-radius: 10px; margin: 4px;" />
+  <img src="https://github.com/user-attachments/assets/341d7e9c-1ac8-4e69-87cd-68de896851db" width="23%" style="border-radius: 10px; margin: 4px;" />
+  <img src="https://github.com/user-attachments/assets/8745b3ab-549c-4a54-8c82-994e564b1e26" width="23%" style="border-radius: 10px; margin: 4px;" />
+</p>
+<br/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4c1c3a93-3c70-4695-b74c-c7f0c1d00087" width="23%" style="border-radius: 10px; margin: 4px;" />
+  <img src="https://github.com/user-attachments/assets/113ba713-09b3-431d-b875-9c10cc726b1f" width="23%" style="border-radius: 10px; margin: 4px;" />
+  <img src="https://github.com/user-attachments/assets/c9962535-c078-4258-85e5-499ba2dd1693" width="23%" style="border-radius: 10px; margin: 4px;" />
+  <img src="https://github.com/user-attachments/assets/af532bfe-fae0-402d-a3e1-44772d57f724" width="23%" style="border-radius: 10px; margin: 4px;" />
+</p>
+
 <br/>
 
 ### 🎮 4. 두뇌 게임
@@ -747,6 +761,7 @@ Made with ❤️ by RememBread Team
 **[⬆ 맨 위로 돌아가기](#-암기빵-remembread)**
 
 </div>
+
 
 
 
